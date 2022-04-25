@@ -9,7 +9,7 @@
 #  pip install bs4
 #  pip install rich
 #  rm -rf JASTNOW_FILE_CLONING
-#  git clone https://github.com/ALFE-SANI/JASTNOW_FILE_CLONING.git
+#  git clone https://github.com/ALFE-SANI/JASTNOW_FILE_CLONING
 #  cd JASTNOW_FILE_CLONING
 #  python file_RAJ-enc.py
 
